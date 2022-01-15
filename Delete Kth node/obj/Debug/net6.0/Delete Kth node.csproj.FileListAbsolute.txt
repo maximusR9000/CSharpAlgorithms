@@ -1,0 +1,15 @@
+C:\Users\mahat\Desktop\SelfStudy\C#Algorithms\Delete Kth node\obj\Debug\net6.0\Delete Kth node.csproj.AssemblyReference.cache
+C:\Users\mahat\Desktop\SelfStudy\C#Algorithms\Delete Kth node\obj\Debug\net6.0\Delete Kth node.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mahat\Desktop\SelfStudy\C#Algorithms\Delete Kth node\obj\Debug\net6.0\Delete Kth node.AssemblyInfoInputs.cache
+C:\Users\mahat\Desktop\SelfStudy\C#Algorithms\Delete Kth node\obj\Debug\net6.0\Delete Kth node.AssemblyInfo.cs
+C:\Users\mahat\Desktop\SelfStudy\C#Algorithms\Delete Kth node\obj\Debug\net6.0\Delete Kth node.csproj.CoreCompileInputs.cache
+C:\Users\mahat\Desktop\SelfStudy\C#Algorithms\Delete Kth node\bin\Debug\net6.0\Delete Kth node.exe
+C:\Users\mahat\Desktop\SelfStudy\C#Algorithms\Delete Kth node\bin\Debug\net6.0\Delete Kth node.deps.json
+C:\Users\mahat\Desktop\SelfStudy\C#Algorithms\Delete Kth node\bin\Debug\net6.0\Delete Kth node.runtimeconfig.json
+C:\Users\mahat\Desktop\SelfStudy\C#Algorithms\Delete Kth node\bin\Debug\net6.0\Delete Kth node.dll
+C:\Users\mahat\Desktop\SelfStudy\C#Algorithms\Delete Kth node\bin\Debug\net6.0\ref\Delete Kth node.dll
+C:\Users\mahat\Desktop\SelfStudy\C#Algorithms\Delete Kth node\bin\Debug\net6.0\Delete Kth node.pdb
+C:\Users\mahat\Desktop\SelfStudy\C#Algorithms\Delete Kth node\obj\Debug\net6.0\Delete Kth node.dll
+C:\Users\mahat\Desktop\SelfStudy\C#Algorithms\Delete Kth node\obj\Debug\net6.0\ref\Delete Kth node.dll
+C:\Users\mahat\Desktop\SelfStudy\C#Algorithms\Delete Kth node\obj\Debug\net6.0\Delete Kth node.pdb
+C:\Users\mahat\Desktop\SelfStudy\C#Algorithms\Delete Kth node\obj\Debug\net6.0\Delete Kth node.genruntimeconfig.cache
