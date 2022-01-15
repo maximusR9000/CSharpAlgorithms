@@ -1,0 +1,15 @@
+C:\Users\mahat\Desktop\SelfStudy\C#Algorithms\Rotate an array\obj\Debug\net6.0\Rotate an array.csproj.AssemblyReference.cache
+C:\Users\mahat\Desktop\SelfStudy\C#Algorithms\Rotate an array\obj\Debug\net6.0\Rotate an array.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mahat\Desktop\SelfStudy\C#Algorithms\Rotate an array\obj\Debug\net6.0\Rotate an array.AssemblyInfoInputs.cache
+C:\Users\mahat\Desktop\SelfStudy\C#Algorithms\Rotate an array\obj\Debug\net6.0\Rotate an array.AssemblyInfo.cs
+C:\Users\mahat\Desktop\SelfStudy\C#Algorithms\Rotate an array\obj\Debug\net6.0\Rotate an array.csproj.CoreCompileInputs.cache
+C:\Users\mahat\Desktop\SelfStudy\C#Algorithms\Rotate an array\bin\Debug\net6.0\Rotate an array.exe
+C:\Users\mahat\Desktop\SelfStudy\C#Algorithms\Rotate an array\bin\Debug\net6.0\Rotate an array.deps.json
+C:\Users\mahat\Desktop\SelfStudy\C#Algorithms\Rotate an array\bin\Debug\net6.0\Rotate an array.runtimeconfig.json
+C:\Users\mahat\Desktop\SelfStudy\C#Algorithms\Rotate an array\bin\Debug\net6.0\Rotate an array.dll
+C:\Users\mahat\Desktop\SelfStudy\C#Algorithms\Rotate an array\bin\Debug\net6.0\ref\Rotate an array.dll
+C:\Users\mahat\Desktop\SelfStudy\C#Algorithms\Rotate an array\bin\Debug\net6.0\Rotate an array.pdb
+C:\Users\mahat\Desktop\SelfStudy\C#Algorithms\Rotate an array\obj\Debug\net6.0\Rotate an array.dll
+C:\Users\mahat\Desktop\SelfStudy\C#Algorithms\Rotate an array\obj\Debug\net6.0\ref\Rotate an array.dll
+C:\Users\mahat\Desktop\SelfStudy\C#Algorithms\Rotate an array\obj\Debug\net6.0\Rotate an array.pdb
+C:\Users\mahat\Desktop\SelfStudy\C#Algorithms\Rotate an array\obj\Debug\net6.0\Rotate an array.genruntimeconfig.cache
