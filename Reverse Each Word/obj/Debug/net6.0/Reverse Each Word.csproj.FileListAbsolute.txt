@@ -1,0 +1,15 @@
+C:\Users\mahat\Desktop\SelfStudy\C#Algorithms\Reverse Each Word\bin\Debug\net6.0\Reverse Each Word.exe
+C:\Users\mahat\Desktop\SelfStudy\C#Algorithms\Reverse Each Word\bin\Debug\net6.0\Reverse Each Word.deps.json
+C:\Users\mahat\Desktop\SelfStudy\C#Algorithms\Reverse Each Word\bin\Debug\net6.0\Reverse Each Word.runtimeconfig.json
+C:\Users\mahat\Desktop\SelfStudy\C#Algorithms\Reverse Each Word\bin\Debug\net6.0\Reverse Each Word.dll
+C:\Users\mahat\Desktop\SelfStudy\C#Algorithms\Reverse Each Word\bin\Debug\net6.0\ref\Reverse Each Word.dll
+C:\Users\mahat\Desktop\SelfStudy\C#Algorithms\Reverse Each Word\bin\Debug\net6.0\Reverse Each Word.pdb
+C:\Users\mahat\Desktop\SelfStudy\C#Algorithms\Reverse Each Word\obj\Debug\net6.0\Reverse Each Word.csproj.AssemblyReference.cache
+C:\Users\mahat\Desktop\SelfStudy\C#Algorithms\Reverse Each Word\obj\Debug\net6.0\Reverse Each Word.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mahat\Desktop\SelfStudy\C#Algorithms\Reverse Each Word\obj\Debug\net6.0\Reverse Each Word.AssemblyInfoInputs.cache
+C:\Users\mahat\Desktop\SelfStudy\C#Algorithms\Reverse Each Word\obj\Debug\net6.0\Reverse Each Word.AssemblyInfo.cs
+C:\Users\mahat\Desktop\SelfStudy\C#Algorithms\Reverse Each Word\obj\Debug\net6.0\Reverse Each Word.csproj.CoreCompileInputs.cache
+C:\Users\mahat\Desktop\SelfStudy\C#Algorithms\Reverse Each Word\obj\Debug\net6.0\Reverse Each Word.dll
+C:\Users\mahat\Desktop\SelfStudy\C#Algorithms\Reverse Each Word\obj\Debug\net6.0\ref\Reverse Each Word.dll
+C:\Users\mahat\Desktop\SelfStudy\C#Algorithms\Reverse Each Word\obj\Debug\net6.0\Reverse Each Word.pdb
+C:\Users\mahat\Desktop\SelfStudy\C#Algorithms\Reverse Each Word\obj\Debug\net6.0\Reverse Each Word.genruntimeconfig.cache
