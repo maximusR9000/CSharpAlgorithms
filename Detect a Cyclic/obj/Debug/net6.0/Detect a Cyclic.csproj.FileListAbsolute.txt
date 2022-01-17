@@ -1,0 +1,15 @@
+C:\Users\mahat\Desktop\SelfStudy\C#Algorithms\Detect a Cyclic\bin\Debug\net6.0\Detect a Cyclic.exe
+C:\Users\mahat\Desktop\SelfStudy\C#Algorithms\Detect a Cyclic\bin\Debug\net6.0\Detect a Cyclic.deps.json
+C:\Users\mahat\Desktop\SelfStudy\C#Algorithms\Detect a Cyclic\bin\Debug\net6.0\Detect a Cyclic.runtimeconfig.json
+C:\Users\mahat\Desktop\SelfStudy\C#Algorithms\Detect a Cyclic\bin\Debug\net6.0\Detect a Cyclic.dll
+C:\Users\mahat\Desktop\SelfStudy\C#Algorithms\Detect a Cyclic\bin\Debug\net6.0\ref\Detect a Cyclic.dll
+C:\Users\mahat\Desktop\SelfStudy\C#Algorithms\Detect a Cyclic\bin\Debug\net6.0\Detect a Cyclic.pdb
+C:\Users\mahat\Desktop\SelfStudy\C#Algorithms\Detect a Cyclic\obj\Debug\net6.0\Detect a Cyclic.csproj.AssemblyReference.cache
+C:\Users\mahat\Desktop\SelfStudy\C#Algorithms\Detect a Cyclic\obj\Debug\net6.0\Detect a Cyclic.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mahat\Desktop\SelfStudy\C#Algorithms\Detect a Cyclic\obj\Debug\net6.0\Detect a Cyclic.AssemblyInfoInputs.cache
+C:\Users\mahat\Desktop\SelfStudy\C#Algorithms\Detect a Cyclic\obj\Debug\net6.0\Detect a Cyclic.AssemblyInfo.cs
+C:\Users\mahat\Desktop\SelfStudy\C#Algorithms\Detect a Cyclic\obj\Debug\net6.0\Detect a Cyclic.csproj.CoreCompileInputs.cache
+C:\Users\mahat\Desktop\SelfStudy\C#Algorithms\Detect a Cyclic\obj\Debug\net6.0\Detect a Cyclic.dll
+C:\Users\mahat\Desktop\SelfStudy\C#Algorithms\Detect a Cyclic\obj\Debug\net6.0\ref\Detect a Cyclic.dll
+C:\Users\mahat\Desktop\SelfStudy\C#Algorithms\Detect a Cyclic\obj\Debug\net6.0\Detect a Cyclic.pdb
+C:\Users\mahat\Desktop\SelfStudy\C#Algorithms\Detect a Cyclic\obj\Debug\net6.0\Detect a Cyclic.genruntimeconfig.cache
